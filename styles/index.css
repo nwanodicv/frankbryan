@@ -46,10 +46,11 @@ a {
 }
 
 a:hover {
-    color: rgb(202, 223, 20)
+    color: rgb(247, 247, 8)
 }
 
 .btn{
+    display: block;
     margin-top: 15rem;
     background-color: #FF0066;
     opacity: 100px;
@@ -69,4 +70,26 @@ a:hover {
 
 .btn:hover {
     background-color:rgb(202, 223, 20)
+}
+
+.restuarant {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-left: 800px;
+}
+
+.coment h1 {
+    color: rgb(248, 244, 6);
+}
+
+.coment p {
+    color:rgb(205, 250, 6);
+}
+
+h2{
+    margin-left: 875px;
+    color:#eee;
+    font-size: 2rem;
+    caption-side: bottom;
+    font-weight: bold;
 }
