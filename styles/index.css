@@ -15,7 +15,7 @@
 }
 
 header {
-    background-color: #534a4a;
+    background-color: #f7efef;
     background-size: cover;
     height: 4rem;
     opacity: 20rem;
@@ -37,8 +37,8 @@ nav img {
 
 a {
     display: flex-end;
-    color: #eee;
-    font-size: 1rem;
+    color: #4d053b;
+    font-size: 1.1rem;
     margin-left: 10rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -46,7 +46,7 @@ a {
 }
 
 a:hover {
-    color: rgb(247, 247, 8)
+    color: rgb(252, 10, 10)
 }
 
 .btn{
@@ -59,6 +59,7 @@ a:hover {
     border-top-right-radius: 0;
     border-bottom-left-radius: 0;
     width: 15rem;
+
 }
 
 .btn h1 {
@@ -73,17 +74,18 @@ a:hover {
 }
 
 .restuarant {
-    margin-left: 10px;
-    margin-top: 10px;
     margin-left: 800px;
+    margin-top: 300px;
 }
 
 .coment h1 {
     color: rgb(248, 244, 6);
+    background-color:rgb(223, 20, 179)
 }
 
 .coment p {
     color:rgb(205, 250, 6);
+    background-color:rgb(223, 20, 179)
 }
 
 h2{
