@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppons' sans-serif;
+}
+
+.hero {
+    background-image: url(../images/Frankbryan\ .png);
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    padding: 10px 10px;
+}
+
+header {
+    background-color: #534a4a;
+    background-size: cover;
+    height: 3rem;
+    opacity: 10rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+nav img {
+    margin:0%;
+    height: 3rem;
+    width: 5rem;
+}
+
+a {
+    display: flex-end;
+    color: #eee;
+    font-size: 1rem;
+    margin-left: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(202, 223, 20)
+}
+
+.btn{
+    margin-top: 15rem;
+    margin-left: 10rem;
+    background-color: #FF0066;
+    opacity: 100px;
+    height: 3rem;
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    width: 15rem;
+}
+
+.btn h1 {
+    color: #eee;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+    padding-top: 0.9rem;
+}
+
+.btn:hover {
+    background-color:rgb(202, 223, 20)
+}
