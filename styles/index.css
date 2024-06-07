@@ -17,8 +17,8 @@
 header {
     background-color: #534a4a;
     background-size: cover;
-    height: 3rem;
-    opacity: 10rem;
+    height: 4rem;
+    opacity: 20rem;
 }
 
 nav {
@@ -32,6 +32,7 @@ nav img {
     margin:0%;
     height: 3rem;
     width: 5rem;
+    padding: 5px;
 }
 
 a {
